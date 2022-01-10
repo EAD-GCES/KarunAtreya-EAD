@@ -8,4 +8,4 @@ This file consist list of all assignments.
 | II. |[Short Notes On Agile Methodologies] | 2078/09/19 | 2078/09/26 |
 
 [Government Enterprise Architecture Framework]: https://github.com/KarunAtreya/EAD/tree/master/Assignment/Assignment1
-[Short Notes On Agile Methodologies]: https://github.com/KarunAtreya/EAD/tree/master/Assignment/Assignment2
+[Short Notes On Agile Methodologies]: https://github.com/KarunAtreya/EAD/tree/master/Assignment/Assignment 2
