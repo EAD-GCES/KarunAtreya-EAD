@@ -10,7 +10,7 @@ Assignments and Practical of Enterprise Application Development
 | II. |[Short Notes On Agile Methodologies] | 2078/09/19 | 2078/09/26 |
 
 [Government Enterprise Architecture Framework]: https://github.com/KarunAtreya/EAD/tree/master/Assignment/Assignment1
-[Short Notes On Agile Methodologies]: https://github.com/KarunAtreya/EAD/tree/master/Assignment/Assignment2
+[Short Notes On Agile Methodologies]: https://github.com/KarunAtreya/EAD/tree/master/Assignment/Assignment%202
 
 
 ### Practicals
@@ -23,9 +23,9 @@ Assignments and Practical of Enterprise Application Development
 | 4. |[Factory Pattern]|
 
 [Git Commands]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab1
-[Contribute to Open Source Project]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab2
-[Singleton Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab3
-[Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab4
+[Contribute to Open Source Project]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%202
+[Singleton Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%203
+[Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%204
 
 
 
