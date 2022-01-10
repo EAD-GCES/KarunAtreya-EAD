@@ -25,7 +25,7 @@ Assignments and Practical of Enterprise Application Development
 [Git Commands]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab1
 [Contribute to Open Source Project]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%202
 [Singleton Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%203
-[Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%204
+[Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab4
 
 
 
