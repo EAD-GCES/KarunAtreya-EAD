@@ -8,6 +8,6 @@
 | 4. |[Factory Pattern]|
 
 [Git Commands]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab1/readme.md
-[Contribute to Open Source Project]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab2/readme.md
-[Singleton Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab3/readme.md
-[Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab4/readme.md
+[Contribute to Open Source Project]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%202/readme.md
+[Singleton Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%203/readme.md
+[Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%204/readme.md
