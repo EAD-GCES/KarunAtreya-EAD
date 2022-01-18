@@ -27,5 +27,8 @@ Assignments and Practical of Enterprise Application Development
 [Singleton Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab%203
 [Factory Pattern]: https://github.com/KarunAtreya/EAD/tree/master/Practical/Lab4
 
+## Name: Karun Kumar Atreya
+## Roll no: 16
+
 
 
